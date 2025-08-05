@@ -13,7 +13,7 @@ class Grid():
     def __init__(self, grid_size=[20,20]):
         
         # get dimensions of grid
-        self.grid_size = np.asarray(grid_size, dtype=np.int)
+        self.grid_size = np.asarray(grid_size, dtype=int)
         self.height = self.grid_size[0].copy()
         self.width = self.grid_size[1].copy()
         

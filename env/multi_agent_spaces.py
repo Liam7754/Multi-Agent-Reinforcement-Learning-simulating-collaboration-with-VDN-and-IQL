@@ -1,4 +1,4 @@
-import gym
+import gymnasium as gym
 
 class MultiAgentActionSpace(list):
     def __init__(self, agents_action_space):
