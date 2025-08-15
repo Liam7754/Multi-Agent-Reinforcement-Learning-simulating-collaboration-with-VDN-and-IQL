@@ -1,5 +1,5 @@
 # Note 
-This is an up-to-date code with Gymnasium
+This is an up-to-date code with Gymnasium and numpy
 # Multi-Agent-RL-simulating-collaboration-with-VDN-and-IQL
 
 Table of contents:
