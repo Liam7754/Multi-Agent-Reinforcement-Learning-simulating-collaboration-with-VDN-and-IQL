@@ -1,3 +1,5 @@
+# Note 
+This is an up-to-date code with Gymnasium
 # Multi-Agent-RL-simulating-collaboration-with-VDN-and-IQL
 
 Table of contents:
